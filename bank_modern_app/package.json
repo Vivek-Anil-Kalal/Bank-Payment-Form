@@ -1,12 +1,11 @@
 {
-  "homepage": "https://Vivek-Anil-Kalal.github.io/Bank_Payment_Form",
+  "homepage": ".",
   "name": "bank_modern_app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build" ,
-    "deploy" : "gh-pages -d dist" ,
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
